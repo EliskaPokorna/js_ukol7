@@ -1,0 +1,28 @@
+form {
+    background: rgb(173, 173, 173);
+    padding: 20px;
+    max-width: 400px;
+    margin: 100px auto 0 auto;
+    border-radius: 20px;
+}
+
+input {
+    height: 35px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button {
+    background: rgb(222, 131, 131);
+    border: none;
+    width: 100px;
+    font-size: 16px;
+    height: 40px;
+    margin-left: 20px;
+    border-radius: 5px;
+    color: #000;
+}
+
+.email-border {
+    border: 2px solid red;
+}
